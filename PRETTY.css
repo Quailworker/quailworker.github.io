@@ -1,0 +1,69 @@
+
+h1 {
+    color: rgb(106, 185, 60);
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    font-family:"Roboto mono", sans-serif;
+
+
+}
+
+
+.projects {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.footer{
+    margin-top: 50px;
+    padding: 25px 0;
+    text-align: left;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.F_1{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    gap: 15px;
+}
+
+.contact{
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 4px 8px;
+    border-radius: 8px;
+    width: fit-content;
+
+}
+
+.contact img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+
+}
+
+.contact:hover {
+    background-color: rgb(4, 46, 4);
+    
+}
+
+body {
+    background-color: #ccffcc;
+
+}

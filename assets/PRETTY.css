@@ -1,0 +1,31 @@
+
+h1 {
+    color: rgb(106, 185, 60);
+    font-size: 50px;
+    text-align: center;
+}
+
+.projects {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.footer{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+.F_1{
+    color:black;
+    font-size:15px;
+    text-align:left;
+}
+
+.F_2{
+    color: black;
+    font-size:15px;
+    text-align: left;
+
+}
